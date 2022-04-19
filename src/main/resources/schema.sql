@@ -1,0 +1,1 @@
+create table dog(id Long,name varchar(300),breed varchar(300),origin varchar(300));
